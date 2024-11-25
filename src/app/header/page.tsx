@@ -8,7 +8,7 @@ const Navbar: React.FC = () => {
       {/* Logo */}
       <div className="flex items-center sm:w-full sm:justify-center lg:w-auto">
         <Image
-          src="/Ghorimarket.png"
+          src="/Ghorimarket.PNG"
           alt="Logo"
           width={100}
           height={100}
